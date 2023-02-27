@@ -1,0 +1,7 @@
+body{background-color: blanchedalmond;}
+h1{font-size: xx-large; color: #FAA111;
+}
+h2{ color: #FFCE44; "font-size: large;"}
+.big{font-size: 60px;}
+.uppercase{ text-transform: uppercase;}
+.big.uppercase{color: navy;}
