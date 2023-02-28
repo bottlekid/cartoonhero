@@ -1,0 +1,38 @@
+body{
+    margin: 0; 
+    background-color: black; 
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Press Start 2P', cursive; font-family: 'VT323', monospace;
+}
+/*header style*/
+header{
+    background-color: #E5A400;
+    padding-bottom: 50px;
+    margin: 0 auto; 
+    padding: 0 20px 20px 100px;}
+
+    h1, h2{font-family: 'Press Start 2P', cursive;}
+
+header h1{color: black; font-size: xx-large;}
+
+header img{max-width: 100%;}
+
+/* main style */
+
+main{max-width: 800px; margin: 0 auto; padding: 0 20px;}
+main img{max-width: 100%}
+
+h2{font-size: 30px; color: #E5A400; margin: 40px 0 10;}
+p{color: white;}
+
+ol{color: white;}
+
+a{color: #E5A400;}
+a:hover{color: lightseagreen;}
+footer a{color: white;}
+footer{background-color: #E5A400; text-align: center; color:white; padding: 30px;}
+footer p[margin: 0;]
+
+
+footer a:hover{color:  lightcoral; opacity: .5; background-color: transparent}
